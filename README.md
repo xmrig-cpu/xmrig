@@ -23,7 +23,7 @@ XMRig is a high performance RandomX and CryptoNight CPU miner, with official sup
 * [Contacts](#contacts)
 
 ## Download
-* Binary releases: https://github.com/xmrig/xmrig/releases
+* Binary releases: https://github.com/xmrig-cpu/xmrig/releases
 * Git tree: https://github.com/xmrig/xmrig.git
   * Clone with `git clone https://github.com/xmrig/xmrig.git` :hammer: [Build instructions](https://github.com/xmrig/xmrig/wiki/Build).
 
